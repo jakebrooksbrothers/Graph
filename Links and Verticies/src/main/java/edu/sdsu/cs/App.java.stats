@@ -1,0 +1,41 @@
+**** FILE: C:\Users\jakeb\IdeaProjects\prog1\src\main\java\edu\sdsu\cs\App.java
+Length of longest line in file: 
+105
+Average line length: 
+38.505207
+Number of unique space-delineated tokens (case-sensitive): 
+322
+Number of unique space-delineated tokens (case-insensitive): 
+317
+Number of all space-delineated tokens in file: 
+1381
+Most frequently occurring token(s): 
+= 
+Count of most frequently occurring token (case-insensitive): 
+88
+Ten most frequent tokens with their counts (case-insensitive): 
+
+88 =
+85 }
+82 {
+33 FOR
+30 I
+27 0;
+24 <
+23 IF
+22 ");
+21 (INT
+
+Ten least frequent tokens with their counts (case-insensitive): 
+
+1 SCHAFFROTH
+1 CSSC0798
+1 //JACOB
+1 BROOKS
+1 CSSC0799
+1 PACKAGE
+1 EDU.SDSU.CS;
+1 //JONATHAN
+1 JAVA.IO.IOEXCEPTION;
+1 JAVA.NIO.CHARSET.CHARSET;
+

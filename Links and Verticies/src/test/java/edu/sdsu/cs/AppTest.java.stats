@@ -1,0 +1,41 @@
+**** FILE: C:\Users\jakeb\IdeaProjects\prog1\src\test\java\edu\sdsu\cs\AppTest.java
+Length of longest line in file: 
+42
+Average line length: 
+13.15
+Number of unique space-delineated tokens (case-sensitive): 
+28
+Number of unique space-delineated tokens (case-insensitive): 
+27
+Number of all space-delineated tokens in file: 
+35
+Most frequently occurring token(s): 
+import /** * */ public { } 
+Count of most frequently occurring token (case-insensitive): 
+2
+Ten most frequent tokens with their counts (case-insensitive): 
+
+2 IMPORT
+2 /**
+2 *
+2 TEST
+2 */
+2 PUBLIC
+2 {
+2 }
+1 UNIT
+1 STATIC
+
+Ten least frequent tokens with their counts (case-insensitive): 
+
+1 EDU.SDSU.CS;
+1 PACKAGE
+1 STATIC
+1 ORG.JUNIT.ASSERT.ASSERTTRUE;
+1 ORG.JUNIT.TEST;
+1 UNIT
+1 FOR
+1 SIMPLE
+1 APP.
+1 CLASS
+
